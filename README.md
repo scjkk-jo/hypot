@@ -12,6 +12,8 @@ GitHub action workflows are provided in the folder `Example workflows`; these wi
 
 - [Dr Maeve Murphy Quinlan](https://github.com/murphyqm)
 
+- [![DOI](https://zenodo.org/badge/833575190.svg)](https://zenodo.org/doi/10.5281/zenodo.12820792)
+
 ## Launch in codespaces
 
 This repository contains a `devcontainer.json` file, which includes details to set up a cloud virtual machine in GitHub codespaces.
